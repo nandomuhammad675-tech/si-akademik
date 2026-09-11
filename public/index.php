@@ -23,3 +23,4 @@ if ($url === 'mahasiswa') {
     echo "404 Halaman Tidak Ditemukan";
 }
 
+//404 Halaman Tidak Ditemukan
